@@ -1,4 +1,4 @@
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![SQL](https://img.shields.io/badge/SQL-SQL-Server-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
 # 🎬 Cinema Database Management System
