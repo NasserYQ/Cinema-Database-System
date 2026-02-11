@@ -1,3 +1,6 @@
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+
 # 🎬 Cinema Database Management System
 
 A comprehensive database system for managing cinema operations including movie scheduling, ticket booking, seat reservations, and snack orders.
