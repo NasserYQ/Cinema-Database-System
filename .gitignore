@@ -1,0 +1,39 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+*.accdb
+
+# MySQL specific
+*.sql~
+*.bak
+mysql-bin.*
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.backup
+*.old
+
+# Temp files
+temp/
+tmp/
+*.tmp
+
+# Personal notes (keep your project docs but exclude personal notes)
+notes.txt
+todo.txt
