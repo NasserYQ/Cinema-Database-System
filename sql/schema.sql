@@ -2,10 +2,6 @@
 -- Cinema Database Management System
 -- Database Schema Creation Script
 -- ============================================
--- Author: [Your Name]
--- Course: CPCS241 - Database I
--- Year: 2023
--- ============================================
 
 -- Create database (uncomment if needed)
 -- CREATE DATABASE cinema_db;
