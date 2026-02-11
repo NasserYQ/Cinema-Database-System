@@ -75,60 +75,10 @@ The system includes pre-built queries for common operations:
 5. **Ticket Sales Report** - Count tickets sold per movie
 6. **Snack Orders** - Track customer snack purchases
 
-## 🚀 Getting Started
-
-### Prerequisites
-- MySQL 8.0+ or any SQL-compliant database
-- Database management tool (MySQL Workbench, pgAdmin, etc.)
-
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/cinema-database-system.git
-cd cinema-database-system
-```
-
-2. **Create the database**
-```sql
-CREATE DATABASE cinema_db;
-USE cinema_db;
-```
-
-3. **Run the schema script**
-```bash
-mysql -u your_username -p cinema_db < sql/schema.sql
-```
-
-4. **Load sample data** (optional)
-```bash
-mysql -u your_username -p cinema_db < sql/sample_data.sql
-```
-
-5. **Test with queries**
-```bash
-mysql -u your_username -p cinema_db < sql/queries.sql
-```
-
-## 📁 Project Structure
-
-```
-cinema-database-system/
-├── README.md
-├── QUICKSTART.md
-├── HOW_TO_UPLOAD_TO_GITHUB.md
-├── Cinema_ER_Diagram.png        # Entity-Relationship Diagram
-├── .gitignore
-└── sql/
-    ├── schema.sql               # Database creation script
-    ├── queries.sql              # Pre-built queries
-    └── sample_data.sql          # Sample data for testing
-```
-
 ## 🛠️ Technology Stack
 
-- **Database**: MySQL / PostgreSQL / SQL Server
-- **Design**: Entity-Relationship modeling
+- **Database**: SQL Server
+- **Design**: Entity-Relationship modeling using drawio
 - **Tools**: SQL, Database normalization (3NF)
 
 ## 📈 Future Enhancements
@@ -140,22 +90,3 @@ cinema-database-system/
 - [ ] Implement automated email confirmations
 - [ ] Add reporting dashboard for managers
 
-## 👥 Authors
-
-- Your Name - [GitHub](https://github.com/yourusername)
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- CPCS241 - Database I Course
-- King Saud University / Umm Al-Qura University
-- Database Design Best Practices
-
----
-
-**Course**: CPCS241 - Database I  
-**Year**: 2023  
-**Project Type**: Academic Database Design
